@@ -12,4 +12,4 @@ Vanilla JS, HTML5, CSS
 
 # Website
 
-https://buigabor.github.io/JS-clock/
+https://buigabor.github.io/scoped-css-variables-js/
